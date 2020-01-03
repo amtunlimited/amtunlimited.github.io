@@ -7,6 +7,8 @@ I consider myself a scientist, an engineer, and an artist. To some this sounds l
 
 I am a great fan of the study of many things: music theory, illusions, science and generally the persuit of knowledge. The one thing I've heard from people about each of these fields is that they, in one form or another, remove the "magic" of the things I love. 
 
+
+
  * Math of rbg colorspace
  * Designer says it takes magic away
  * Layman says designer takes the magic away
