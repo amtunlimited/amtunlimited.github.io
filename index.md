@@ -1,10 +1,9 @@
 ---
 layout: post
 title: This is a test
+author: Aaron Tagliaboschi
 path: /
 ---
-
-# This is another test
 
 Testing one two 
 
