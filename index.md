@@ -1,9 +1,10 @@
 ---
-layout: post
-title: This is a test
+layout: default
 path: /
 ---
 
-Testing one two 
+# Posts
 
-post format!
+{% for post in site.posts %}
+* [{{ post.title }}]({{ post.url}})
+{% endfor %}
