@@ -1,6 +1,7 @@
 ---
 layout: default
 path: /
+title: Posts
 ---
 
 {% for post in site.posts %}
