@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
 author: Aaron Tagliaboschi
 title: My Kind of Beauty
-description: A place for me to a deep dive, scratch the surface, or just gush about things I love
+description: A place for me to deep dive, scratch the surface, or just gush about things I find and love.
+excerpt_separator: <!--more-->
+
+plugins:
+    - jekyll-feed

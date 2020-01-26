@@ -3,10 +3,14 @@ layout: default
 path: /
 ---
 
-# Posts
-
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
+# [{{ post.title }}]({{ post.url }})
+<div class="author">
+  by {{ post.author | default: site.author }} <br />
+  {{ post.date | date: "%-d %B %Y" }}
+</div>
 
-{{post.excerpt}}...[More]({{ post.url }})
+{{post.excerpt}}
+
+---
 {% endfor %}
