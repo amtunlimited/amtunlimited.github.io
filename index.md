@@ -80,4 +80,5 @@ I don't really do social media, but there's a RSS feed for my blog and a mailing
 list (linked below), and all of the various music platforms have subscriptions.
 Drop me an email if you've seen anything you liked, and peace be with you.
 
-[!AT logo]("/assets/logo.svg")
+<!--TODO: put this into a layout or something?-->
+![AT logo](/assets/logo.svg){: style="height: 3em"}
