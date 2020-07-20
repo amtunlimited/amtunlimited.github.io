@@ -1,0 +1,9 @@
+- name: Average Response
+  github: average-response
+  description: What does averaging the HTTP response code of every request sent
+               from Firefox mean? Nothing. Absolutely nothing.
+
+- name: Fireworks
+  github: fireworks
+  description: A small visual demo I coded live for a hgih school class
+               demonstration

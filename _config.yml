@@ -2,6 +2,7 @@ author: Aaron Tagliaboschi
 title: My Kind of Beauty
 description: A place for me to deep dive, scratch the surface, or just gush about things I find and love.
 excerpt_separator: <!--more-->
+markdown: kramdown
 
 plugins:
     - jekyll-feed
