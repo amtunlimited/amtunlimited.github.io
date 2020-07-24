@@ -8,13 +8,13 @@ My name is Aaron Tagliaboschi. Here's some stuff I'm up to:
 * TOC
 {:toc}
 
-## My Writing
+## Writing
 
 I really enjoy writing. I'm still fairly new and trying to find my stride, but
 it at least makes me happy.
 
 ### Blog
-I write in a blog sometimes called [My Kind of Beauty](/posts/), where I put
+I write in a blog sometimes called [My Kind of Beauty](/blog/), where I put
 thoughts and musings about me and myself. I want to start writing more technical
 articles and deep dives, but I haven't yet. That'll probably be it's own thing
 though...
@@ -28,7 +28,7 @@ Here's some of the more recent posts:
 ---
 {% endfor %}
 
-## My Music
+## Music
 
 I play jazz piano and other stuff (but mostly piano and mostly jazz-adjacent).
 
@@ -55,7 +55,7 @@ where I arranged and and played piano (and midi vibrophone) on a slightly
 different take on 
 [Silent Night](https://open.spotify.com/track/7JCvFmavIW0dlvss57GETj?si=MqFXAdZBR1qDCMpQ70d_0A)
 
-## My Livestreams
+## Livestreams
 
 Here lately I've been 
 [live streaming](https://www.youtube.com/watch?v=yQ68RjxbZEE&list=PL4fu3juqIttf7z_UbRRaILsAKn-oL-r7U)
@@ -64,7 +64,7 @@ playing piano, improvising, analyzing, and making improptu arrangements live on
 the spot. You can also find other bits of improv and music there as well. I'm 
 trying to develop it a bit more as I learn on the guitar.
 
-## My Online Curios
+## Web Toys
 
 Every once in a while I make something small or silly (another thing I'd like to
 do more). 

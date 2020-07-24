@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /posts/
+permalink: /blog/
 title: Posts
 ---
 
