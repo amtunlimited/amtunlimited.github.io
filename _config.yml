@@ -3,6 +3,7 @@ title: My Kind of Beauty
 description: A place for me to deep dive, scratch the surface, or just gush about things I find and love.
 excerpt_separator: <!--more-->
 markdown: kramdown
+url: https://aarontag.dev
 
 plugins:
-    - jekyll-feed
+  #    - jekyll-feed
