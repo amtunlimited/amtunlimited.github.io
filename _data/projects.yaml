@@ -14,6 +14,6 @@
                to make as minimal a website as I can that's still sharable.
 
 - name: TTT-js
-  github: ttt-s
+  github: ttt-js
   description: A demo of the minimax algorithm by way of a really inefficient
                tic-tac-toe AI
