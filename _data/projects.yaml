@@ -12,3 +12,8 @@
   github: amtunlimited.github.io
   description: This very website is a playground for me, as well as an attempt
                to make as minimal a website as I can that's still sharable.
+
+- name: TTT-js
+  github: ttt-s
+  description: A demo of the minimax algorithm by way of a really inefficient
+               tic-tac-toe AI
