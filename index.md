@@ -72,7 +72,7 @@ do more).
 Here's a couple hosted here:
 
 {%for project in site.data.projects%}
-  [{{project.name}}](/{{project.github}}/) ([Code](https://github.com/amtunlimited/{{project.github}}))
+  [{{project.name}}](https://amtunlimited.github.io/{{project.github}}/) ([Code](https://github.com/amtunlimited/{{project.github}}))
   : {{project.description}}
 {%endfor%}
 
