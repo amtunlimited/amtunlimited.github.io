@@ -5,5 +5,5 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 url: https://aarontag.dev
 
-plugins:
-  #    - jekyll-feed
+# plugins:
+#    - jekyll-feed
