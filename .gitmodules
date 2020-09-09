@@ -1,0 +1,6 @@
+[submodule "average-response"]
+	path = average-response
+	url = git@github.com:amtunlimited/average-response.git
+[submodule "ttt-js"]
+	path = ttt-js
+	url = git@github.com:amtunlimited/ttt-js.git
