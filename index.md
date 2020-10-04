@@ -64,6 +64,15 @@ playing piano, improvising, analyzing, and making improptu arrangements live on
 the spot. You can also find other bits of improv and music there as well. I'm 
 trying to develop it a bit more as I learn on the guitar.
 
+## Art
+
+I'm started to take a dive into visual art, specifically watercolour. It's been 
+incredibly rewarding, even though, as Ira Glass might put it, my skill level and
+understanding of the medium is still [far behind my taste](https://vimeo.com/24715531).
+I've been participating in Inktober 2020, a tradition where you create and post
+a piece of art every day in October. You can follow my progress (and my art in
+general) [on my Instagram (@amtunlimited)](https://instagram.com/amtunlimited).
+
 ## Web Toys
 
 Every once in a while I make something small or silly (another thing I'd like to
@@ -72,12 +81,14 @@ do more).
 Here's a couple hosted here:
 
 {%for project in site.data.projects%}
-  [{{project.name}}](https://amtunlimited.github.io/{{project.github}}/) ([Code](https://github.com/amtunlimited/{{project.github}}))
-  : {{project.description}}
+  [{{project.name}}](https://amtunlimited.github.io/{{project.github}}/) 
+  ([Code](https://github.com/amtunlimited/{{project.github}})): {{project.description}}
 {%endfor%}
 
 I don't really do social media, but there's a RSS feed for my blog and a mailing
 list (linked below), and all of the various music platforms have subscriptions.
-Drop me an email if you've seen anything you liked, and peace be with you.
+Drop me an email if you've seen anything you liked.
+
+Peace be with you, however you may find it, and good luck.
 
 {% include signoff.html %}
