@@ -1,0 +1,31 @@
+- name: RSS Feed
+  desc: The RSS feed for my blog
+  url: https://aarontag.dev/feed.xml
+
+- name: Instagram (visual art)
+  desc: My Instagram for my art and photography
+  url: https://www.instagram.com/amtunlimited/
+
+- name: Instagram (music)
+  desc: A separate Instagram for my music
+  url: https://www.instagram.com/tagabunchofletters/
+
+- name: YouTube
+  desc: My YouTube channel. Also the official YouTube channel of me as an musician
+  url: https://www.youtube.com/channel/UCVlEkuqoQMnsHzjy-DJWOnA
+
+- name: Spotify
+  desc: Where my published music is. I publish with DistroKid, so my music is where ever else they push to, but this is my main squeeze.
+  url: https://open.spotify.com/artist/2THGi5Y5LqTqN7ZYBoAHMn?si=tveP0GAUQDehFWs3Sfw6Cw
+
+- name: SoundCloud (main)
+  desc: MY main Soundcloud.
+  url: https://soundcloud.com/amtunlimited
+
+- name: SoundCloud (improv)
+  desc: Where I moved some improv after I ran out of space. Inactive archive (for now)
+  url: https://soundcloud.com/amtimprov
+
+- name: GitHub
+  desc: Where my code toys go. Considering a move to srchut, but haven't yet. Also where a lot of my professional pulic work goes.
+  url: https://github.com/amtunlimited
