@@ -81,8 +81,8 @@ do more).
 Here's a couple hosted here:
 
 {%for project in site.data.projects%}
-  [{{project.name}}](https://amtunlimited.github.io/{{project.github}}/) 
-  ([Code](https://github.com/amtunlimited/{{project.github}})): {{project.description}}
+  [{{project.name}}](https://amtunlimited.github.io/{{project.github}}/) ([Code](https://github.com/amtunlimited/{{project.github}}))
+  : {{project.description}}
 {%endfor%}
 
 I don't really do social media, but there's a RSS feed for my blog and a mailing

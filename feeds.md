@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /feeds/
-title: Home
+title: My Feeds
 ---
 Here's a list of my various online feeds. As always, you can [email me](mailto:aaron.tagliaboschi@gmail.com) and I would absolutely love to hear from you.
 
